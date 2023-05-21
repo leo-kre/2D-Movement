@@ -3,4 +3,4 @@ This project was started with the intention of creating good feeling 2d platform
 
 # What did I learn during this project
 - what makes 2d movement feel good
-- how to implement techniques like coyote Time
+- how to implement techniques for better feeling movement such as coyote Time
