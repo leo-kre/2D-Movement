@@ -1,2 +1,5 @@
 # 2dMovement
-Simple 2d GameEngine written in java with good feeling player controls
+This project was started with the intention of creating good feeling 2d platformer movement. Along with this, I wrote a simple rendering engine to display everything
+
+# What did I learn during this project
+- asd
